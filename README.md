@@ -1,4 +1,4 @@
-# SOC EDR Solution 
+# SOC Solution 
 
 Technologies used :
 
